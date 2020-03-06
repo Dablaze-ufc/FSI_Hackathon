@@ -2,7 +2,6 @@ package com.phoenix.fsihackathon
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.android.fsihackathon.R
 
 class MainActivity : AppCompatActivity() {
 
