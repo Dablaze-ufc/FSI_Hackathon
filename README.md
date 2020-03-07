@@ -15,3 +15,16 @@ transfers without entering an account number.
 All the user does is to use our USSD service and enter the unique key of the recipient which will display the 
 various bank accounts owned by that individual. The user then selects a particular bank without having to
 enter an account number or search through tonnes of banks.
+
+# Default Data
+user 1---R-code = 24281
+
+ user 2 ---- R-code = 29012
+ 
+ andriod: user 3 R-code = 90221
+ 
+ andriod: user 4 R-code = 32181
+ 
+ andriod: user 5 R-code 12381
+ 
+ andriod: default OTP for all users = 123456
