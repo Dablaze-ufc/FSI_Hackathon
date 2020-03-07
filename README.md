@@ -28,3 +28,7 @@ user 1---R-code = 24281
  andriod: user 5 R-code 12381
  
  andriod: default OTP for all users = 123456
+
+
+ # Work Flow
+ https://github.com/Dablaze-ufc/FSI_Hackathon/blob/master/app/FSI%20Payment%20Solution%20Hackaton_%20Team%20Phoenix.pdf
